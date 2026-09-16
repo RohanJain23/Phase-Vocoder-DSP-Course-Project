@@ -1,0 +1,36 @@
+# Vivado generated/regeneratable build products
+RTL Part/RTL Part.cache/
+RTL Part/RTL Part.gen/
+RTL Part/RTL Part.hw/
+RTL Part/RTL Part.ip_user_files/
+RTL Part/RTL Part.runs/
+RTL Part/RTL Part.sim/
+RTL Part/.Xil/
+RTL Part/*.jou
+RTL Part/*.log
+RTL Part/*.str
+RTL Part/*.zip
+RTL Part/vivado_pid*.str
+RTL Part/NA/
+*.backup.log
+*.backup.jou
+webtalk*.log
+webtalk*.jou
+
+# Redundant backup archive of the RTL project
+RTL Part.zip
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
